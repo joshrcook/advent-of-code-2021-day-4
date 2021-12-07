@@ -2,3 +2,4 @@
 .merlin
 node_modules
 lib
+src/*.js
