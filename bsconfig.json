@@ -1,0 +1,8 @@
+{
+    "sources": "src",
+    "package-specs": {
+        "in-source": true,
+        "module": "commonjs"
+    },
+    "name": "advent-of-code-2021-day-4"
+}
